@@ -8,7 +8,7 @@ const frameMetadata = getFrameMetadata({
     },
   ],
   image: {
-    src: `${process.env.NEXT_PUBLIC_SITE_URL}/site-preview.jpg`,
+    src: `${process.env.NEXT_PUBLIC_SITE_URL}/site-preview2.png`,
   },
   input: {
     text: 'Your Email',
