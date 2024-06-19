@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     'fc:frame': 'vNext',
     'fc:frame:image': `${process.env.NEXT_PUBLIC_SITE_URL}/B0-Image.png`,
     'fc:frame:post_url': `${process.env.NEXT_PUBLIC_SITE_URL}/api/basic?id=1`,
-    'fc:frame:button:1': 'YYYStart BarCamp Hackathon Demo',
+    'fc:frame:button:1': 'ZZZStart BarCamp Hackathon Demo',
   },
 }
 
